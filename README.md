@@ -14,6 +14,10 @@ Kuro’s Handle Closer is a Windows utility designed to automatically detect and
 - Automatically closes selected handle when started
 - Status line that lets you know whats going on
 
+## Requirements
+- A Windows pc
+- Windows 10 or newer
+
 ## License
 
 This project is **source-available**, not open-source.
