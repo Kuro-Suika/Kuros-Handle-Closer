@@ -2,7 +2,7 @@
 Kuro’s Handle Closer is a Windows utility designed to automatically detect and close specified handles from selected running processes.
 
 ## Install Guide
-1. Download the latest ZIP from Releases
+1. Download the latest ZIP from [Releases](https://github.com/Kuro-Suika/Kuros-Handle-Closer/releases)
 2. Unzip the file anywhere, keep it its in own folder
 3. Double click HandleCloser.exe
 4. When Windows asks for permission, click "Yes"
